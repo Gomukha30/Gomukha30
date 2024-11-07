@@ -8,11 +8,10 @@ About Me
 🧠 Specialization: Artificial Intelligence and Machine Learning
 💻 Interests: AI, ML, Data Science, and Software Development
 🌱 Currently Learning: Advanced Machine Learning techniques, Deep Learning, and AI-powered solutions.
-Projects Here are a few projects I've been working on: 1.Library Management System - https://github.com/VitMernProject/library-management-system
 
 Skills
 
-Programming Languages: Python, Java, R,JavaScript
+Programming Languages: Python, Java(Fundamentals),JavaScript
 Tools & Technologies: TensorFlow, PyTorch, scikit-learn, Git, Google Colab
 Areas of Expertise: Machine Learning, Data Analysis, Neural Networks
 Feel free to explore my repositories. 
