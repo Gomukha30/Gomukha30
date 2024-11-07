@@ -15,4 +15,4 @@ Skills
 Programming Languages: Python, Java, R,JavaScript
 Tools & Technologies: TensorFlow, PyTorch, scikit-learn, Git, Google Colab
 Areas of Expertise: Machine Learning, Data Analysis, Neural Networks
-Feel free to explore my repositories and get in touch if you have any questions or opportunities to collaborate!
+Feel free to explore my repositories. 
