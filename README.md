@@ -7,7 +7,7 @@ About Me
 🎓 Education: B.Tech in Computer Science and Engineering
 🧠 Specialization: Artificial Intelligence and Machine Learning
 💻 Interests: AI, ML, Data Science, and Software Development
-🌱 Currently Learning: Machine Learning techniques, Deep Learning, and AI-powered solutions.
+🌱 Currently Learning: Machine Learning techniques, Deep Learning.
 
 Skills
 
