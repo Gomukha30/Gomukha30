@@ -7,11 +7,11 @@ About Me
 🎓 Education: B.Tech in Computer Science and Engineering
 🧠 Specialization: Artificial Intelligence and Machine Learning
 💻 Interests: AI, ML, Data Science, and Software Development
-🌱 Currently Learning: Advanced Machine Learning techniques, Deep Learning, and AI-powered solutions.
+🌱 Currently Learning: Machine Learning techniques, Deep Learning, and AI-powered solutions.
 
 Skills
 
-Programming Languages: Python, Java(Fundamentals),JavaScript
+Programming Languages: Python, Java,JavaScript
 Tools & Technologies: TensorFlow, PyTorch, scikit-learn, Git, Google Colab
 Areas of Expertise: Machine Learning, Data Analysis, Neural Networks
 Feel free to explore my repositories. 
